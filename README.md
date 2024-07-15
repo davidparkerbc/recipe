@@ -1,7 +1,7 @@
 ### This is a LOCAL change :)
 ### This is a REMOTE change :O
 # Cookie Recipe
-
+![Classic Chocolate Chip Cookies](recipe.jpg "Classic Chocolate Chip Cookies")
 line 2 changed remotely
 
 ### A recipe for the best Chewy Chocolate chip cookies
